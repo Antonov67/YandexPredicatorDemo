@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YandexPredicatorDemo</string>
+    <string name="callback">Предиктор</string>
+    <string name="ccopy">Работает на базе \"Яндекс.предиктор\"</string>
+</resources>
